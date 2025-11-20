@@ -1,0 +1,10 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 239 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.0.16:3000/
+1:48:21 PM [vite] Pre-transform error: Failed to resolve import "./index.css" from "src/main.jsx". Does the file exist?
